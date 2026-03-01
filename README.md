@@ -180,3 +180,4 @@ If you find a bug, have a feature request, or want to contribute code:
    - Create a Pull Request against the `main` branch.
 
 All contributions, from bug fixes to complete feature implementations (like Tables or Media embeddings) are highly appreciated!
+
